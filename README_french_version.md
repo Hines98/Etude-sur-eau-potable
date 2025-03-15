@@ -13,9 +13,9 @@ Dans ce cadre, je dois réaliser un tableau de bord présentant une vue globale 
 
 ## Tableau de bord
 Le choix des pays prioritaires se basera sur les critères suivants :
-•	Faible accès à l'eau potable
-•	Taux de mortalité WASH élevé
-•	Niveau de stabilité politique permettant une intervention efficace
+- Faible accès à l'eau potable
+- Taux de mortalité WASH élevé
+- Niveau de stabilité politique permettant une intervention efficace
 
 #### 1. Analyse globale
 Des disparités marquées existent entre les pays, en particulier en Afrique et en Asie. Certains pays ont un taux d'accès très faible, mettant en évidence un besoin d'intervention urgent.
@@ -23,9 +23,9 @@ Des pays comme le Nigeria, l'Éthiopie et la Sierra Leone affichent des taux de 
 Les pays avec une instabilité politique marquée présentent généralement un accès à l'eau potable plus faible. Les conflits et crises humanitaires contribueraient au freinage du développement des infrastructures hydrauliques.
 
 #### 2. Analyse continentale
-•	Afrique : Taux de mortalité dû à l’insalubrité de l’eau le plus élevé, infrastructures d'eau insuffisantes.
-•	Asie du Sud-Est : Progrès variables selon les pays, mais certains restent en difficulté.
-•	Amérique Latine : Meilleure situation générale mais des poches de pauvreté subsistent.
+- Afrique : Taux de mortalité dû à l’insalubrité de l’eau le plus élevé, infrastructures d'eau insuffisantes
+- Asie du Sud-Est : Progrès variables selon les pays, mais certains restent en difficulté.
+- Amérique Latine : Meilleure situation générale mais des poches de pauvreté subsistent.
 Certaines régions montrent une amélioration constante de la part de la population ayant accès à l’eau potable, tandis que d'autres stagnent voire régressent.
 
 #### 4. Analyse nationale
@@ -33,5 +33,5 @@ La croissance de la population rurale par rapport à la population totale met en
 Un faible indice de stabilité politique est souvent corrélé avec des difficultés à assurer des services d’eau de qualité.
 
 #### Recommandations
-•	Mongolia, Bhutan, Vanuatu, Lao People’s Democratic Republic ont des besoins urgents en infrastructure et gestion de l'eau et sont des pays où règnent une stabilité politique
-•	Autres pays à surveiller : les pays d’Afrique de l'Ouest et certains pays d'Asie du Sud-Est.
+- Mongolia, Bhutan, Vanuatu, Lao People’s Democratic Republic ont des besoins urgents en infrastructure et gestion de l'eau et sont des pays où règnent une stabilité politique
+- Autres pays à surveiller : les pays d’Afrique de l'Ouest et certains pays d'Asie du Sud-Est.
