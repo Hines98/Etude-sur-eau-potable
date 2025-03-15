@@ -1,5 +1,5 @@
 [Dashboard.pdf](https://github.com/user-attachments/files/19264935/Dashboard.pdf)
-# Access to Drinking Water
+# Study on drinking water
 
 ## Context
 Context
