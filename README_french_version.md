@@ -1,4 +1,4 @@
-# ETUDE D'EAU POTABLE 
+# ETUDE SUR L'EAU POTABLE 
 
 ## Contexte
 Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water For All). Cette ONG a pour ambition de donner accès à l’eau potable à tout le monde et a 3 domaines d’expertises :
