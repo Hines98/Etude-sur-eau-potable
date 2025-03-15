@@ -34,3 +34,11 @@ The growth of the rural population relative to the total population highlights a
 #### Recommendations
 - Urgent needs for water infrastructure and management in politically stable countries: Mongolia, Bhutan, Vanuatu, and the Lao People's Democratic Republic.
 - Other countries to monitor: West African countries and some Southeast Asian nations.
+
+![image](https://github.com/user-attachments/assets/f73a3f35-cac1-496e-9f07-c27bf980bf8c)
+
+![image](https://github.com/user-attachments/assets/d9a1809a-cd86-4d6d-ae4a-b239ea18eda4)
+
+![image](https://github.com/user-attachments/assets/f7dd8b16-ea76-4447-aacc-954e026c3814)
+
+
