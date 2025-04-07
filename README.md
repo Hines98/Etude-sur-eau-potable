@@ -28,9 +28,9 @@ Les pays avec une instabilité politique marquée présentent généralement un 
 ![image](https://github.com/user-attachments/assets/69ff2215-d015-4616-87b3-bb9c69356711)
 
 #### 2. Analyse continentale
-- Afrique : Taux de mortalité dû à l’insalubrité de l’eau le plus élevé, infrastructures d'eau insuffisantes
-- Asie du Sud-Est : Progrès variables selon les pays, mais certains restent en difficulté.
-- Amérique Latine : Meilleure situation générale mais des poches de pauvreté subsistent.
+- Afrique : le taux de mortalité dû à l’insalubrité de l’eau est plus élevé avec des infrastructures d'eau insuffisantes
+- Asie du Sud-Est : les progrès sont variables selon les pays mais certains restent en difficulté.
+- Amérique Latine : on observe une meilleure situation générale mais des poches de pauvreté subsistent par endroit.
 Certaines régions montrent une amélioration constante de la part de la population ayant accès à l’eau potable, tandis que d'autres stagnent voire régressent.
 
 ![image](https://github.com/user-attachments/assets/f1830618-0fc5-49c3-96dc-26389771a8fb)
@@ -43,7 +43,7 @@ Un faible indice de stabilité politique est souvent corrélé avec des difficul
 
 #### Recommandations
 - Mongolia, Bhutan, Vanuatu, Lao People’s Democratic Republic ont des besoins urgents en infrastructure et gestion de l'eau et sont des pays où règnent une stabilité politique
-- Autres pays à surveiller : les pays d’Afrique de l'Ouest et certains pays d'Asie du Sud-Est.
+- D'autres pays sont à surveiller : les pays d’Afrique de l'Ouest et certains pays d'Asie du Sud-Est.
 
 
 
