@@ -25,25 +25,25 @@ Des disparités marquées existent entre les pays, en particulier en Afrique et 
 Des pays comme le Nigeria, l'Éthiopie et la Sierra Leone affichent des taux de mortalité élevés mais sont des pays avec une instabilité politique. L'absence d'infrastructures et la qualité insuffisante des services de base contribuent à ces chiffres alarmants.
 Les pays avec une instabilité politique marquée présentent généralement un accès à l'eau potable plus faible. Les conflits et crises humanitaires contribueraient au freinage du développement des infrastructures hydrauliques.
 
+![image](https://github.com/user-attachments/assets/69ff2215-d015-4616-87b3-bb9c69356711)
+
 #### 2. Analyse continentale
 - Afrique : Taux de mortalité dû à l’insalubrité de l’eau le plus élevé, infrastructures d'eau insuffisantes
 - Asie du Sud-Est : Progrès variables selon les pays, mais certains restent en difficulté.
 - Amérique Latine : Meilleure situation générale mais des poches de pauvreté subsistent.
 Certaines régions montrent une amélioration constante de la part de la population ayant accès à l’eau potable, tandis que d'autres stagnent voire régressent.
 
+![image](https://github.com/user-attachments/assets/f1830618-0fc5-49c3-96dc-26389771a8fb)
+
 #### 4. Analyse nationale
 La croissance de la population rurale par rapport à la population totale met en évidence des besoins accrus en infrastructures d'eau. A contrario, l'expansion urbaine tend à améliorer l'accès à l'eau, mais les populations rurales restent défavorisées.
 Un faible indice de stabilité politique est souvent corrélé avec des difficultés à assurer des services d’eau de qualité.
+
+![image](https://github.com/user-attachments/assets/6cb90ec8-3175-4a07-aee3-5d251603e4f1)
 
 #### Recommandations
 - Mongolia, Bhutan, Vanuatu, Lao People’s Democratic Republic ont des besoins urgents en infrastructure et gestion de l'eau et sont des pays où règnent une stabilité politique
 - Autres pays à surveiller : les pays d’Afrique de l'Ouest et certains pays d'Asie du Sud-Est.
 
-
-![image](https://github.com/user-attachments/assets/f73a3f35-cac1-496e-9f07-c27bf980bf8c)
-
-![image](https://github.com/user-attachments/assets/d9a1809a-cd86-4d6d-ae4a-b239ea18eda4)
-
-![image](https://github.com/user-attachments/assets/f7dd8b16-ea76-4447-aacc-954e026c3814)
 
 
