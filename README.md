@@ -15,7 +15,7 @@ Le choix des pays prioritaires se basera sur les critères suivants :
 - Niveau de stabilité politique permettant une intervention efficace
 
 #### [Télécharger les données]
-#### [Télécharger la version PDF du dashboard](https://github.com/Hines98/Drinking_water_PBI_project/blob/main/Dashboard.pdf)
+#### [Télécharger la version PDF du dashboard](https://github.com/Hines98/Etude_sur_eau_potable_PBI/blob/main/Dashboard.pdf)
 #### [Télécharger la version PBIx du dashboard](https://github.com/Hines98/Etude_sur_eau_potable_PBI/blob/main/Drinking%20water%20dashboard.pbix)
 
 ## Synthèse
