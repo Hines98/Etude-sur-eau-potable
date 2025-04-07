@@ -16,7 +16,7 @@ Le choix des pays prioritaires se basera sur les critères suivants :
 
 #### [Télécharger les données]
 #### [Télécharger la version PDF du dashboard](https://github.com/Hines98/Drinking_water_PBI_project/blob/main/Dashboard.pdf)
-#### [Télécharger la version PBIx du dashboard]
+#### [Télécharger la version PBIx du dashboard](https://github.com/Hines98/Drinking_water_PBI_project/blob/main/Drinking%20water%20dashboard.pbix)
 
 ## Synthèse
 
