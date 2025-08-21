@@ -25,7 +25,7 @@ Des disparités marquées existent entre les pays, en particulier en Afrique et 
 Des pays comme le Nigeria, l'Éthiopie et la Sierra Leone affichent des taux de mortalité élevés mais sont des pays avec une instabilité politique. L'absence d'infrastructures et la qualité insuffisante des services de base contribuent à ces chiffres alarmants.
 Les pays avec une instabilité politique marquée présentent généralement un accès à l'eau potable plus faible. Les conflits et crises humanitaires contribueraient au freinage du développement des infrastructures hydrauliques.
 
-![image](https://github.com/user-attachments/assets/69ff2215-d015-4616-87b3-bb9c69356711)
+<img width="1283" height="718" alt="image" src="https://github.com/user-attachments/assets/8fec94ff-776a-420d-b141-9cc9f33d0195" />
 
 #### 2. Analyse continentale
 - Afrique : le taux de mortalité dû à l’insalubrité de l’eau est plus élevé avec des infrastructures d'eau insuffisantes
@@ -33,13 +33,14 @@ Les pays avec une instabilité politique marquée présentent généralement un 
 - Amérique Latine : on observe une meilleure situation générale mais des poches de pauvreté subsistent par endroit.
 Certaines régions montrent une amélioration constante de la part de la population ayant accès à l’eau potable, tandis que d'autres stagnent voire régressent.
 
-![image](https://github.com/user-attachments/assets/f1830618-0fc5-49c3-96dc-26389771a8fb)
+<img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/6319aead-9147-4ca1-8d1a-1253f3d9951f" />
 
 #### 4. Analyse nationale
 La croissance de la population rurale par rapport à la population totale met en évidence des besoins accrus en infrastructures d'eau. A contrario, l'expansion urbaine tend à améliorer l'accès à l'eau, mais les populations rurales restent défavorisées.
 Un faible indice de stabilité politique est souvent corrélé avec des difficultés à assurer des services d’eau de qualité.
 
-![image](https://github.com/user-attachments/assets/6cb90ec8-3175-4a07-aee3-5d251603e4f1)
+<img width="1279" height="720" alt="image" src="https://github.com/user-attachments/assets/067b96fa-1df5-4d0f-8f46-b8757367e289" />
+
 
 #### Recommandations
 - Mongolia, Bhutan, Vanuatu, Lao People’s Democratic Republic ont des besoins urgents en infrastructure et gestion de l'eau et sont des pays où règnent une stabilité politique
